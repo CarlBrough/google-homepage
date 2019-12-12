@@ -6,3 +6,5 @@ I will add to this as i go reflecting on my progress or not as the case may be
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
 
+12/12/19
+Tried working from the google home page to reconstruct. managed to complete top line 
