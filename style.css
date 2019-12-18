@@ -39,3 +39,14 @@ nav li {
     
 }
 
+#maincenter {
+    postion: absolute;
+    top:50%;
+    right:50%;
+}
+
+.maincenter img{
+    top:50%;
+    transform: translate(600px,200px);
+}
+
