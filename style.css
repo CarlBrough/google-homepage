@@ -62,7 +62,11 @@ nav li {
     border-color: cornflowerblue;
     border-radius: 18px;
     text-indent: 40px;
-    
 
+
+}
+.bottom-left {
+    list-style: none;
+    display: inline;
 }
 
