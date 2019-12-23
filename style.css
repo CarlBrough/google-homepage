@@ -51,6 +51,10 @@ nav li {
 }
 
 #Search-box {
+    transform: translate(600px,300px);
+}
+
+#input-box {
     transform: translate(600px,250px);
 }
 
