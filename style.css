@@ -56,5 +56,11 @@ nav li {
 
 #input-box {
     transform: translate(600px,250px);
+    width: 400px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    border-radius: 18px;
+
 }
 
