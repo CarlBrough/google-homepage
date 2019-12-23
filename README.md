@@ -12,3 +12,7 @@ Tried working from the google home page to reconstruct. managed to complete top 
 19/12/19
 Felt alot better with the css sheet and linking ti the html to change things. Will try adding rest of contents later
 At the moment image is linked to internet rather than local copy!
+
+23/12/19
+Starting to grasp some of the concepts a little better but still some way to go, need to get in the habit of commiting
+after each change to make it easy to debug.
