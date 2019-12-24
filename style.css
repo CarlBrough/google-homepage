@@ -65,7 +65,11 @@ nav li {
 
 
 }
-.bottom-left {
+.bottom-left li{
+    list-style: none;
+    display: inline;
+}
+.bottom-right li{
     list-style: none;
     display: inline;
 }
